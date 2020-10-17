@@ -30,3 +30,15 @@ Some Basi commads:
 git status
 git log
 ```
+
+To search clik [google](www.google.com).
+
+Normal Bulltes:
+
+- bullet1
+- bullet2
+
+order list:
+
+1. order1
+2. order2
