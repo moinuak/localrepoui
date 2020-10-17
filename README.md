@@ -4,10 +4,12 @@
 Formatting test
 
 **BOLD**
+
 __2nd BOLD__
 
 
 *ITALIC*
+
 _2nd ITALIC_
 
 
