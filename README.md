@@ -20,3 +20,13 @@ _2nd ITALIC_
 
 
 ***ALL BOLD and ITALIC***
+
+Hitler Said:
+
+>World is a Stage
+
+Some Basi commads:
+'''
+git status
+git log
+'''
