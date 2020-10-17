@@ -42,3 +42,8 @@ order list:
 
 1. order1
 2. order2
+
+My Cheklist:
+
+- [ ] seen all videos
+- [X] not seen all
